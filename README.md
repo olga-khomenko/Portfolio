@@ -26,7 +26,7 @@ After working for years in office administration, the covid time made me re-eval
 
 
 ## CV
-You can download **[my CV](https://drive.google.com/drive/folders/1PGjXQS4RhX9jdLNqTMuTKvivvMryDqPR)**.
+You can download **[my CV](https://drive.google.com/file/d/1LAIkCWkNWATDOP1V5qWauI49kIlg7O45/view?usp=sharing)**.
 
 
 
@@ -70,28 +70,28 @@ __Also, after obtaining ISTQB foundation level certification, I’ve gained the 
 
 
 ## Professional Certification
-__ISTQB Certification Foundation Level - June 2023, [Certificate](https://drive.google.com/drive/folders/1PGjXQS4RhX9jdLNqTMuTKvivvMryDqPR)__
+__ISTQB Certification Foundation Level - June 2023, [Certificate](https://drive.google.com/file/d/1AkpCjARHFsHlzXQaD4u6ajnAcPvE6d5f/view?usp=sharing)__
 
 [The ISTQB® Certified Tester Foundation Level (CTFL) certification](https://www.istqb.org/certifications/certified-tester-foundation-level) is the cornerstone of essential testing knowledge that can be applied to real-world scenarios. The syllabus provides a comprehensive understanding of the terminology and concepts used in the testing domain worldwide, making it relevant for all software delivery approaches and practices, including Waterfall, Agile, DevOps, and Continuous Delivery. 
 
 
 
 ## Courses 
-__Automated Testing Basics, EPAM University Program  at [Learn Digital Platform](https://learn.epam.com/start) (120 hours)  - July 2023, [Certificate](https://drive.google.com/drive/folders/1PGjXQS4RhX9jdLNqTMuTKvivvMryDqPR)__
+__Automated Testing Basics, EPAM University Program  at [Learn Digital Platform](https://learn.epam.com/start) (120 hours)  - July 2023, [Certificate](https://drive.google.com/file/d/1YuQV3aqDxEGMfx4GyNru1vYrIRFQ2yOo/view?usp=sharing)__
 
 This course helps gain basic skills in test automation using JavaScript. 	
 The course consists of the following modules: Computer Science Basics, Software Development Methodologies, Software Testing Introduction, Introduction to Testing, Version Control with Git, Automated Testing basics in JavaScript 2,0.  	
 
 
 
-__[The Complete Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/learn/lecture/36405334?start=180#overview) by Nezam Academy at  [Udemy](https://www.udemy.com/)  (29 hours) -  April 2023, [Certificate](https://drive.google.com/drive/folders/1PGjXQS4RhX9jdLNqTMuTKvivvMryDqPR)__
+__[The Complete Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/learn/lecture/36405334?start=180#overview) by Nezam Academy at  [Udemy](https://www.udemy.com/)  (29 hours) -  April 2023, [Certificate](https://drive.google.com/file/d/1xLxC9I5mlW7x86KTBl9A9XXIx5SHKeuh/view?usp=sharing)__
 
 This course provides required knowledge  needed in order to land the first software testing job. 
 The course covers the following topics: Manual Testing Basics (Tools used: Google Sheets-Trello-Zephyr Scale-Jira),  Agile Testing Basics (Tools used: Jira-Trello), API & Webservice Testing (Tools used: Postman), Performance Testing (Tools used: JMeter), Test Automation (Tools used: Selenium IDE - Katalon Studio - Playwright), Black Box Test Techniques, White Box Test Techniques. 
 
 
 
-__[The Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) by Jose Portilla at  [Udemy](https://www.udemy.com/) (22 hours) - December 2022,  [Certificate](https://drive.google.com/drive/folders/1PGjXQS4RhX9jdLNqTMuTKvivvMryDqPR)__
+__[The Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) by Jose Portilla at  [Udemy](https://www.udemy.com/) (22 hours) - December 2022,  [Certificate](https://drive.google.com/file/d/13egkKpyBnP-tNlSOnT8k-3x5UTqFUOu7/view?usp=sharing)__
 
 This course teaches Python in a practical manner, with every lecture comes a full coding screencast and a corresponding code notebook. The course covers a wide variety of topics, including: Command Line Basics, Installing Python, Running Python Code, Strings, Lists, Dictionaries, Tuples, Sets, Number Data Types, Print Formatting, Functions, Scope, args/kwargs, Built-in Functions, Debugging and Error Handling, Modules, External Modules, Object Oriented Programming, Inheritance, Polymorphism, File I/O, Advanced Methods, Unit Tests, etc.
 
