@@ -42,7 +42,7 @@ You can download **[my CV](https://drive.google.com/file/d/1LAIkCWkNWATDOP1V5qWa
 * API testing
 * Test documentation
 * SQL databases
-* Python fundamentals
+* Python
 * JavaScript fundamentals
 
 __Also, after obtaining ISTQB foundation level certification, I’ve gained the following skills:__
