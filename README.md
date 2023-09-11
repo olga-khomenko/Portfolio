@@ -43,7 +43,7 @@ You can download **[my CV](https://drive.google.com/file/d/1LAIkCWkNWATDOP1V5qWa
 * Test documentation
 * SQL databases
 * Python
-* JavaScript fundamentals
+* JavaScript
 
 __Also, after obtaining ISTQB foundation level certification, I’ve gained the following skills:__
 * Understand what testing is and why it is beneficial
