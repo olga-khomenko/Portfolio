@@ -26,7 +26,7 @@ After working for years in office administration, the covid time made me re-eval
 
 
 ## CV
-You can download **[my CV](https://drive.google.com/file/d/1SkWwAbp0xgzHc3E9x9rv_bEPLy100sBh/view?usp=drive_link)**.
+You can download **[my CV](https://drive.google.com/drive/folders/1PGjXQS4RhX9jdLNqTMuTKvivvMryDqPR)**.
 
 
 
