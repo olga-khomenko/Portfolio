@@ -5,16 +5,21 @@
 - [Tools](#tools)
 - [Professional Certification](#professional-certification)
 - [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
+- [Examples of my test documentation works](#examples-of-my-test-documentation-works)
 	* [Test Scenarios for web and mobile applications. Tools used: Trello](https://trello.com/invite/b/QLPIozQK/ATTI6b340f4f201f1d240ed4464c8d0837e67C220C2F/log-in-facebook-web)
 	* [Test Cases for web application. Tools used: Zephyr Scale](https://olga-khomenko.atlassian.net/projects/TBA?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases?projectId=10000)
 	* [Test Cases examples for mobile application. Tools used: Google Sheets](https://docs.google.com/spreadsheets/d/1vrQvTKOa1N5VhxQh4Xutn4UVFPcfSNNrlUPJxJxotIY/edit#gid=415589379)
 	* [Bug Reports(to be added soon)](#bug-reports)
- 	* [Demo project in Python: Tic-Tac-Toe game](https://github.com/olga-khomenko/tic-tac-toe)
-  	* [Demo project in Python: Alarm Clock](https://github.com/olga-khomenko/alarm-clock-timer)
+
+- [Examples of my test automation projects](#examples-of-my-automation-projects)
   	* [Automated testing demo project in Python](https://github.com/olga-khomenko/automated-testing-demo)
   	* [UI automated demo tests in Python](https://github.com/olga-khomenko/ui-automated-testing-demo)
   	* [Playwright with JavaScript demo tests](https://github.com/olga-khomenko/playwright-js)
+ 
+  -[Examples of my Bootcamp coding projects](#examples-of-my-bootcamp-projects)
+ 	* [Demo project in Python: Tic-Tac-Toe game](https://github.com/olga-khomenko/tic-tac-toe)
+  	* [Demo project in Python: Alarm Clock](https://github.com/olga-khomenko/alarm-clock-timer)
+
 
 
 
@@ -85,7 +90,7 @@ __ISTQB Certification Foundation Level - June 2023, [Certificate](https://drive.
 __Automated Testing Basics, EPAM University Program  at [Learn Digital Platform](https://learn.epam.com/start) (120 hours)  - July 2023, [Certificate](https://drive.google.com/file/d/1YuQV3aqDxEGMfx4GyNru1vYrIRFQ2yOo/view?usp=sharing)__
 
 This course helps gain basic skills in test automation using JavaScript. 	
-The course consists of the following modules: Computer Science Basics, Software Development Methodologies, Software Testing Introduction, Introduction to Testing, Version Control with Git, Automated Testing basics in JavaScript 2,0.  	
+The course consists of the following modules: Computer Science Basics, Software Development Methodologies, Software Testing Introduction, Introduction to Testing, Version Control with Git, Automated Testing basics in JavaScript.  	
 
 
 
@@ -102,16 +107,21 @@ This course teaches Python in a practical manner, with every lecture comes a ful
 
 
 
-## Examples of my work
+## Examples of my test documentation works
   * [Test Scenarios for web and mobile applications. Tools used: Trello](https://trello.com/invite/b/QLPIozQK/ATTI6b340f4f201f1d240ed4464c8d0837e67C220C2F/log-in-facebook-web)
   * [Test Cases for web application. Tools used: Zephyr Scale](https://olga-khomenko.atlassian.net/projects/TBA?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases?projectId=10000)
   * [Test Cases examples for mobile application. Tools used: Google Sheets](https://docs.google.com/spreadsheets/d/1vrQvTKOa1N5VhxQh4Xutn4UVFPcfSNNrlUPJxJxotIY/edit#gid=415589379)
   * Bug Reports (to be added soon)
-  * [Demo project in Python: Tic-Tac-Toe game](https://github.com/olga-khomenko/tic-tac-toe)
-  * [Demo project in Python: Alarm Clock](https://github.com/olga-khomenko/alarm-clock-timer)
+
+## Examples of my test automation projects
   * [Automated testing demo project in Python](https://github.com/olga-khomenko/automated-testing-demo)
   * [UI automated demo tests in Python](https://github.com/olga-khomenko/ui-automated-testing-demo)
   * [Playwright with JavaScript demo tests](https://github.com/olga-khomenko/playwright-js)
+ 
+
+## Examples of my Bootcamp coding projects
+  * [Demo project in Python: Tic-Tac-Toe game](https://github.com/olga-khomenko/tic-tac-toe)
+  * [Demo project in Python: Alarm Clock](https://github.com/olga-khomenko/alarm-clock-timer)
 
 	
 
