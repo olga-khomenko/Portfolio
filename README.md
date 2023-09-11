@@ -16,7 +16,7 @@
   	* [UI automated demo tests in Python](https://github.com/olga-khomenko/ui-automated-testing-demo)
   	* [Playwright with JavaScript demo tests](https://github.com/olga-khomenko/playwright-js)
  
-  -[Examples of my Bootcamp coding projects](#examples-of-my-bootcamp-projects)
+- [Examples of my Bootcamp coding projects](#examples-of-my-bootcamp-projects)
  	* [Demo project in Python: Tic-Tac-Toe game](https://github.com/olga-khomenko/tic-tac-toe)
   	* [Demo project in Python: Alarm Clock](https://github.com/olga-khomenko/alarm-clock-timer)
 
