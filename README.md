@@ -9,7 +9,7 @@
 	* [Test Scenarios for web and mobile applications. Tools used: Trello](https://trello.com/invite/b/QLPIozQK/ATTI6b340f4f201f1d240ed4464c8d0837e67C220C2F/log-in-facebook-web)
 	* [Test Cases for web application. Tools used: Zephyr Scale](https://olga-khomenko.atlassian.net/projects/TBA?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases?projectId=10000)
 	* [Test Cases examples for mobile application. Tools used: Google Sheets](https://docs.google.com/spreadsheets/d/1vrQvTKOa1N5VhxQh4Xutn4UVFPcfSNNrlUPJxJxotIY/edit#gid=415589379)
-	* [Bug Reports](#bug-reports)
+	* [Bug Reports(to be added soon)](#bug-reports)
  	* [Demo project in Python: Tic-Tac-Toe game](https://github.com/olga-khomenko/tic-tac-toe)
   	* [Demo project in Python: Alarm Clock](https://github.com/olga-khomenko/alarm-clock-timer)
   	* [Automated testing demo project in Python](https://github.com/olga-khomenko/automated-testing-demo)
