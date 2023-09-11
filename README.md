@@ -10,6 +10,7 @@
 	* [Test Cases for web application. Tools used: Zephyr Scale](https://olga-khomenko.atlassian.net/projects/TBA?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases?projectId=10000)
 	* [Test Cases examples for mobile application. Tools used: Google Sheets](https://docs.google.com/spreadsheets/d/1vrQvTKOa1N5VhxQh4Xutn4UVFPcfSNNrlUPJxJxotIY/edit#gid=415589379)
 	* [Bug Reports](#bug-reports)
+ 	* Demo project in Python: Tic-Tac-Toe
 
 
 
@@ -19,7 +20,7 @@ __Welcome to my GitHub Portfolio - I am Olga Khomenko, an ISTQB certified QA spe
 
 After working for years in office administration, the covid time made me re-evaluate my professional goals and gave me courage to make a strong step towards Quality Assurance.  I was always fascinated with what modern programming tools can do now, how automation can simplify our life. In my previous positions, while working with a lot of numbers and data, I mastered  my detail-orientation skills and communication. Moreover, I always tried to automate my work processes as much as possible. 
 
- Once I've finished Python Development and QA Automation Bootcamps I am looking forward to improving the quality of your product by covering its frontend and backend  functionalities with reliable end-to-end automated testing. 
+ Once I've finished Python Development and QA Automation Bootcamps I am looking forward to improving the quality of your product by validaing its frontend and backend  functionalities. 
  
  You can visit **[my LinkedIn page](https://www.linkedin.com/in/olga-khomenko-qa/)**
 
