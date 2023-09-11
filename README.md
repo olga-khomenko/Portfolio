@@ -1,22 +1,15 @@
 # Portfolio
 - [About me](#about-me)
 - [CV](#cv)
-
-
-
 - [Technical Skills](#technical-skills)
-
-**[4. Tools](#heading--1)**
-
-**[5. Certification](#heading--1)**
-
-**[6. Courses](#heading--1)**
-
-Examples of my work
-
-Test Scenarios using Trello
-	 	Test Case
- 	 	Bug Reports
+- [Tools](#tools)
+- [Professional Certification](#professional-certification)
+- [Courses](#courses)
+- [Examples of my work](#examples-of-my-work)
+  * [Test Scenarios for web and mobile applications. Tools used: Trello.](#test-scenarios-for-web-and-mobile-applications)
+  * [Test Cases for web application. Tools used: Zephyr Scale](#test-cases-for-web-application)
+  * [Test Cases examples for mobile application. Tools used: Google Sheets](#test-cases-examples-for-mobile-application.-tools-used-google-sheets)
+  * [Bug Reports](#bug-reports)
 
 
 
@@ -30,7 +23,7 @@ After working for years in office administration, the covid time made me re-eval
 You can download **[my CV](https://drive.google.com/file/d/1SkWwAbp0xgzHc3E9x9rv_bEPLy100sBh/view?usp=drive_link)**.
 
 
-# Technical Skills:
+## Technical Skills
 Manual testing
 Test Automation
 Test analysis & design
@@ -57,7 +50,7 @@ Effectively report on test progress and quality
 
 
 
-Tools:
+## Tools
 GitHub
 Jira / TestRail / Trello/ Zephyr Scale
 UI (Selenium, Playwright)
@@ -67,28 +60,26 @@ Postman
 Docker 
 
 
-Certification:
+## Professional Certification
 ISTQB Certification Foundation Level - June 2023, Certificate
 The ISTQB® Certified Tester Foundation Level (CTFL) certification is the cornerstone of essential testing knowledge that can be applied to real-world scenarios. The syllabus provides a comprehensive understanding of the terminology and concepts used in the testing domain worldwide, making it relevant for all software delivery approaches and practices, including Waterfall, Agile, DevOps, and Continuous Delivery. 
 
-Courses: 
+## Courses 
 Automated Testing Basics, EPAM University Program  at Learn Digital Platform (120 hours)  - July 2023, Certificate
 This course helps gain basic skills in test automation using JavaScript. 	The course consists of the following modules: Computer Science Basics, Software Development Methodologies, Software Testing Introduction, Introduction to Testing, Version Control with Git, Automated Testing basics in JavaScript 2,0.  	
 
 The Complete Software Testing Bootcamp by Nezam Academy at  Udemy  (29 hours) -  April 2023, Certificate 
 This course provides required knowledge  needed in order to land the first software testing job. The course covers the following topics: Manual Testing Basics [Tools used: Google Sheets-Trello-Zephyr Scale-Jira],  Agile Testing Basics [Tools used: Jira-Trello], API & Webservice Testing [Tools used: postman], Performance Testing [Tools used: JMeter], Test Automation [Tools used: Selenium IDE - Katalon Studio - Playwright], Black Box Test Techniques, White Box Test Techniques. 
 
-
 The Complete Python Bootcamp by Jose Portilla at  Udemy (22 hours) - December 2022,  Certificate
 This course teaches Python in a practical manner, with every lecture comes a full coding screencast and a corresponding code notebook. The course covers a wide variety of topics, including: Command Line Basics, Installing Python, Running Python Code, Strings, Lists, Dictionaries, Tuples, Sets, Number Data Types, Print Formatting, Functions, Scope, args/kwargs, Built-in Functions, Debugging and Error Handling, Modules, External Modules, Object Oriented Programming, Inheritance, Polymorphism, File I/O, Advanced Methods, Unit Tests, etc.
 
 
-Examples of my work:
-Test Scenarios for web and mobile applications [Tools used: Trello]
-Test Cases examples for mobile application [Tools used: Google Sheets]
-
+## Examples of my work
+  * Test Scenarios for web and mobile applications. Tools used: Trello
+  * Test Cases for web application. Tools used: Zephyr Scale
+  * Test Cases examples for mobile application. Tools used: Google Sheets
+  * Bug Reports
 
 	
-  Test Case
-  Bug Reports
 
