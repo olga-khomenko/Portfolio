@@ -1,4 +1,4 @@
-# Portfolio
+# Olga Khomenko's Portfolio
 - [About me](#about-me)
 - [CV](#cv)
 - [Technical Skills](#technical-skills)
@@ -6,10 +6,10 @@
 - [Professional Certification](#professional-certification)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  - [Test Scenarios for web and mobile applications. Tools used: Trello](#test-scenarios-for-web-and-mobile-applications)
-  - [Test Cases for web application. Tools used: Zephyr Scale](#test-cases-for-web-application)
-  -  [Test Cases examples for mobile application. Tools used: Google Sheets](#test-cases-examples-for-mobile-application.-tools-used-google-sheets)
-  -  [Bug Reports](#bug-reports)
+  * [Test Scenarios for web and mobile applications. Tools used: Trello](#test-scenarios-for-web-and-mobile-applications)
+  * [Test Cases for web application. Tools used: Zephyr Scale](#test-cases-for-web-application)
+  *  [Test Cases examples for mobile application. Tools used: Google Sheets](#test-cases-examples-for-mobile-application.-tools-used-google-sheets)
+  * [Bug Reports](#bug-reports)
 
 
 
@@ -101,7 +101,7 @@ This course teaches Python in a practical manner, with every lecture comes a ful
   * [Test Scenarios for web and mobile applications. Tools used: Trello](https://trello.com/invite/b/QLPIozQK/ATTI6b340f4f201f1d240ed4464c8d0837e67C220C2F/log-in-facebook-web)
   * [Test Cases for web application. Tools used: Zephyr Scale](https://olga-khomenko.atlassian.net/projects/TBA?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases?projectId=10000)
   * [Test Cases examples for mobile application. Tools used: Google Sheets](https://docs.google.com/spreadsheets/d/1vrQvTKOa1N5VhxQh4Xutn4UVFPcfSNNrlUPJxJxotIY/edit#gid=415589379)
-  * Bug Reports (to be added soon)
+    Bug Reports (to be added soon)
 
 	
 
