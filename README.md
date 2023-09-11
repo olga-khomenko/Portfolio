@@ -12,8 +12,8 @@
 	* [Bug Reports(to be added soon)](#bug-reports)
 
 - [Examples of my test automation projects](#examples-of-my-test-automation-projects)
-  	* [Automated testing demo project in Python](https://github.com/olga-khomenko/automated-testing-demo)
-  	* [UI automated demo tests in Python](https://github.com/olga-khomenko/ui-automated-testing-demo)
+  	* [API testing demo project in Python](https://github.com/olga-khomenko/automated-testing-demo)
+  	* [UI testing demo project in Python](https://github.com/olga-khomenko/ui-automated-testing-demo)
   	* [Playwright with JavaScript demo tests](https://github.com/olga-khomenko/playwright-js)
  
 - [Examples of my Bootcamp coding projects](#examples-of-my-bootcamp-coding-projects)
@@ -114,8 +114,12 @@ This course teaches Python in a practical manner, with every lecture comes a ful
   * Bug Reports (to be added soon)
 
 ## Examples of my test automation projects
-  * [Automated testing demo project in Python](https://github.com/olga-khomenko/automated-testing-demo)
-  * [UI automated demo tests in Python](https://github.com/olga-khomenko/ui-automated-testing-demo)
+  * [API testing demo project in Python](https://github.com/olga-khomenko/automated-testing-demo)
+
+    Project that can showcase my proficiency in Python development, automated testing, Docker and continuous integration.
+  * [UI testing demo project in Python](https://github.com/olga-khomenko/ui-automated-testing-demo)
+
+    Project to demonstrate my knowlage on building a sample UI testing framework with Python and Playwright using page-object model.
   * [Playwright with JavaScript demo tests](https://github.com/olga-khomenko/playwright-js)
  
 
