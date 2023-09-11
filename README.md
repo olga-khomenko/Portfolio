@@ -10,7 +10,11 @@
 	* [Test Cases for web application. Tools used: Zephyr Scale](https://olga-khomenko.atlassian.net/projects/TBA?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases?projectId=10000)
 	* [Test Cases examples for mobile application. Tools used: Google Sheets](https://docs.google.com/spreadsheets/d/1vrQvTKOa1N5VhxQh4Xutn4UVFPcfSNNrlUPJxJxotIY/edit#gid=415589379)
 	* [Bug Reports](#bug-reports)
- 	* Demo project in Python: Tic-Tac-Toe
+ 	* [Demo project in Python: Tic-Tac-Toe game](https://github.com/olga-khomenko/tic-tac-toe)
+  	* [Demo project in Python: Alarm Clock](https://github.com/olga-khomenko/alarm-clock-timer)
+  	* [Automated testing demo project in Python](https://github.com/olga-khomenko/automated-testing-demo)
+  	* [UI automated demo tests in Python](https://github.com/olga-khomenko/ui-automated-testing-demo)
+  	* [Playwright with JavaScript demo tests](https://github.com/olga-khomenko/playwright-js)
 
 
 
@@ -103,6 +107,11 @@ This course teaches Python in a practical manner, with every lecture comes a ful
   * [Test Cases for web application. Tools used: Zephyr Scale](https://olga-khomenko.atlassian.net/projects/TBA?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases?projectId=10000)
   * [Test Cases examples for mobile application. Tools used: Google Sheets](https://docs.google.com/spreadsheets/d/1vrQvTKOa1N5VhxQh4Xutn4UVFPcfSNNrlUPJxJxotIY/edit#gid=415589379)
   * Bug Reports (to be added soon)
+  * [Demo project in Python: Tic-Tac-Toe game](https://github.com/olga-khomenko/tic-tac-toe)
+  * [Demo project in Python: Alarm Clock](https://github.com/olga-khomenko/alarm-clock-timer)
+  * [Automated testing demo project in Python](https://github.com/olga-khomenko/automated-testing-demo)
+  * [UI automated demo tests in Python](https://github.com/olga-khomenko/ui-automated-testing-demo)
+  * [Playwright with JavaScript demo tests](https://github.com/olga-khomenko/playwright-js)
 
 	
 
