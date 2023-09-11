@@ -11,12 +11,12 @@
 	* [Test Cases examples for mobile application. Tools used: Google Sheets](https://docs.google.com/spreadsheets/d/1vrQvTKOa1N5VhxQh4Xutn4UVFPcfSNNrlUPJxJxotIY/edit#gid=415589379)
 	* [Bug Reports(to be added soon)](#bug-reports)
 
-- [Examples of my test automation projects](#examples-of-my-automation-projects)
+- [Examples of my test automation projects](#examples-of-my-test-automation-projects)
   	* [Automated testing demo project in Python](https://github.com/olga-khomenko/automated-testing-demo)
   	* [UI automated demo tests in Python](https://github.com/olga-khomenko/ui-automated-testing-demo)
   	* [Playwright with JavaScript demo tests](https://github.com/olga-khomenko/playwright-js)
  
-- [Examples of my Bootcamp coding projects](#examples-of-my-bootcamp-projects)
+- [Examples of my Bootcamp coding projects](#examples-of-my-bootcamp-coding-projects)
  	* [Demo project in Python: Tic-Tac-Toe game](https://github.com/olga-khomenko/tic-tac-toe)
   	* [Demo project in Python: Alarm Clock](https://github.com/olga-khomenko/alarm-clock-timer)
 
@@ -36,7 +36,7 @@ After working for years in office administration, the covid time made me re-eval
 
 
 ## CV
-You can download **[my CV](https://drive.google.com/file/d/1LAIkCWkNWATDOP1V5qWauI49kIlg7O45/view?usp=sharing)**.
+You can view and download my CV **[here](https://drive.google.com/file/d/1LAIkCWkNWATDOP1V5qWauI49kIlg7O45/view?usp=sharing)**.
 
 
 
